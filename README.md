@@ -4,7 +4,7 @@ Repositorio diseñado como guia para una correcta limpieza y análisis de datos
 ## Explicacion
 La limpieza de datos es el proceso que elimina los datos que no pertenecen a su conjunto de datos. La transformación de datos es el proceso de convertir datos de un formato o estructura a otro. Los procesos de transformación también se pueden denominar disputa de datos o manipulación de datos, transformación y mapeo de datos de un formulario de datos «sin procesar» a otro formato para almacenamiento y análisis. Este artículo se centra en los procesos de limpieza de esos datos.
 
-###¿Cómo se limpian los datos?
+### ¿Cómo se limpian los datos?
 Si bien las técnicas utilizadas para la limpieza de datos pueden variar según los tipos de datos que almacene su empresa, puede seguir estos pasos básicos para diseñar un marco para su organización.
 
 **Paso 1:** Elimine las observaciones duplicadas o irrelevantes
