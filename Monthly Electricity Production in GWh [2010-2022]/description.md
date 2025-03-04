@@ -13,8 +13,7 @@ Hydro, Wind, Solar, Geothermal, Other renewables, Nuclear, Total combustible fue
 
 The dataset columns include:
 
-**COUNTRY**: Name of the country
-
+**COUNTRY**: Name of the country  
 **CODE_TIME**: A code that represents the month and year (e.g., JAN2010 for January 2010)
 
 **TIME**: The month and year in a more human-readable format (e.g., January 2010)
