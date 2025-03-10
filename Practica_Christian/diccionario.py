@@ -34,6 +34,7 @@ def ingresar_producto():
         valor_input = int(input("Ingrese precio del producto: "))
         producto.append(producto_input)
         valor.append(valor_input)
+        productos[producto_input] = valor_input
 
     for i in range(len(producto)):
         productos[producto[i]] = valor[i]
