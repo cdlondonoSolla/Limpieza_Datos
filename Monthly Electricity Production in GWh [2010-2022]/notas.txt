@@ -9,3 +9,6 @@ Sacar grafico de las energias con mas consumo anual
 Grafico agrupa de pais x energia
 
 Con esto se puede analizar cual es la energia que mas se consume y si es dañina o no
+
+Ejemplo:
+https://colab.research.google.com/drive/1rJscyjXCZcGkaBnkLjwcBRCFZgPsvvPq?usp=sharing
